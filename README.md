@@ -90,7 +90,7 @@ Flexi-Java Foundation/
 ## ⚙️ Setup & Execution
 
 ### Clone Repository
-git clone https://github.com/Anubhavsethi13/Flexi-Java-Foundation.git
+git clone https://github.com/Anubhavsethi13/Java-Foundation
 
 2. Open in your preferred IDE:
 - IntelliJ IDEA
